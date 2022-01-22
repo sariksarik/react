@@ -1,0 +1,9 @@
+.content{
+  grid-area: c;
+}
+.content img{
+  width: 50%;
+}
+.item{
+  color: rgb(34, 31, 31);
+}
